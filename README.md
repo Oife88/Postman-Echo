@@ -1,1 +1,1 @@
-A file with the same name already exists. Please choose a different name and try again.  
+[![Build status](https://ci.appveyor.com/api/projects/status/xsilppepth3bwl70?svg=true)](https://ci.appveyor.com/project/Oife88/postman-echo)
